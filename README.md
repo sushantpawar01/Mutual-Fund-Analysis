@@ -16,7 +16,7 @@ To identify **top-performing, low-risk mutual fund schemes** using data-driven t
 ## 🐍 Python-Based Fund Analysis
 
 I started by importing and exploring a dataset of over 2500 mutual fund schemes.  
-🔗 [Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
+🔗 [Python Script](https://github.com/sushantpawar01/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Python%20Analysis.ipynb)
 
 ### 1. Data Cleaning
 - Removed unnecessary columns
@@ -40,15 +40,15 @@ Custom scoring formula based on:
 
 ### 5. Final Output – Top 30 Funds
 Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
-🔗 [Top 30 Mutual Funds (Excel)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)
+🔗 [Top 30 Mutual Funds (Excel)]([https://github.com/sushantpawar01/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx])
 
 ---
 
 ## 📈 Power BI Dashboard – Mutual Fund Insights
 
 After processing the data using Python and Excel, I built an **interactive dashboard** in Power BI.  
-🔗 [Power BI Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
-🔗 [Dashboard Preview Image](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
+🔗 [Power BI Dashboard File (.pbix)](https://github.com/sushantpawar01/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
+🔗 [Dashboard Preview Image](https://github.com/sushantpawar01/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20Power%20BI.png)
 
 ### 📌 Key Features
 
@@ -81,7 +81,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ## 🖼️ Dashboard Preview
 
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
+![Mutual Fund Dashboard Preview](https://github.com/sushantpawar01/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20Power%20BI.png)
 
 ---
 
